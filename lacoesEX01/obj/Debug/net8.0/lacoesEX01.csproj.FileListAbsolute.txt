@@ -1,0 +1,14 @@
+C:\Users\54261396874\Desktop\Aula Back End\lacoesEX01\bin\Debug\net8.0\lacoesEX01.exe
+C:\Users\54261396874\Desktop\Aula Back End\lacoesEX01\obj\Debug\net8.0\lacoesEX01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54261396874\Desktop\Aula Back End\lacoesEX01\obj\Debug\net8.0\lacoesEX01.AssemblyInfoInputs.cache
+C:\Users\54261396874\Desktop\Aula Back End\lacoesEX01\obj\Debug\net8.0\lacoesEX01.AssemblyInfo.cs
+C:\Users\54261396874\Desktop\Aula Back End\lacoesEX01\obj\Debug\net8.0\lacoesEX01.csproj.CoreCompileInputs.cache
+C:\Users\54261396874\Desktop\Aula Back End\lacoesEX01\obj\Debug\net8.0\lacoesEX01.dll
+C:\Users\54261396874\Desktop\Aula Back End\lacoesEX01\obj\Debug\net8.0\refint\lacoesEX01.dll
+C:\Users\54261396874\Desktop\Aula Back End\lacoesEX01\obj\Debug\net8.0\lacoesEX01.pdb
+C:\Users\54261396874\Desktop\Aula Back End\lacoesEX01\bin\Debug\net8.0\lacoesEX01.deps.json
+C:\Users\54261396874\Desktop\Aula Back End\lacoesEX01\bin\Debug\net8.0\lacoesEX01.runtimeconfig.json
+C:\Users\54261396874\Desktop\Aula Back End\lacoesEX01\bin\Debug\net8.0\lacoesEX01.dll
+C:\Users\54261396874\Desktop\Aula Back End\lacoesEX01\bin\Debug\net8.0\lacoesEX01.pdb
+C:\Users\54261396874\Desktop\Aula Back End\lacoesEX01\obj\Debug\net8.0\lacoesEX01.genruntimeconfig.cache
+C:\Users\54261396874\Desktop\Aula Back End\lacoesEX01\obj\Debug\net8.0\ref\lacoesEX01.dll

@@ -1,0 +1,14 @@
+C:\Users\54261396874\Desktop\Aula Back End\ReviwConcepts\bin\Debug\net8.0\ReviwConcepts.exe
+C:\Users\54261396874\Desktop\Aula Back End\ReviwConcepts\bin\Debug\net8.0\ReviwConcepts.deps.json
+C:\Users\54261396874\Desktop\Aula Back End\ReviwConcepts\bin\Debug\net8.0\ReviwConcepts.runtimeconfig.json
+C:\Users\54261396874\Desktop\Aula Back End\ReviwConcepts\bin\Debug\net8.0\ReviwConcepts.dll
+C:\Users\54261396874\Desktop\Aula Back End\ReviwConcepts\bin\Debug\net8.0\ReviwConcepts.pdb
+C:\Users\54261396874\Desktop\Aula Back End\ReviwConcepts\obj\Debug\net8.0\ReviwConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54261396874\Desktop\Aula Back End\ReviwConcepts\obj\Debug\net8.0\ReviwConcepts.AssemblyInfoInputs.cache
+C:\Users\54261396874\Desktop\Aula Back End\ReviwConcepts\obj\Debug\net8.0\ReviwConcepts.AssemblyInfo.cs
+C:\Users\54261396874\Desktop\Aula Back End\ReviwConcepts\obj\Debug\net8.0\ReviwConcepts.csproj.CoreCompileInputs.cache
+C:\Users\54261396874\Desktop\Aula Back End\ReviwConcepts\obj\Debug\net8.0\ReviwConcepts.dll
+C:\Users\54261396874\Desktop\Aula Back End\ReviwConcepts\obj\Debug\net8.0\refint\ReviwConcepts.dll
+C:\Users\54261396874\Desktop\Aula Back End\ReviwConcepts\obj\Debug\net8.0\ReviwConcepts.pdb
+C:\Users\54261396874\Desktop\Aula Back End\ReviwConcepts\obj\Debug\net8.0\ReviwConcepts.genruntimeconfig.cache
+C:\Users\54261396874\Desktop\Aula Back End\ReviwConcepts\obj\Debug\net8.0\ref\ReviwConcepts.dll
