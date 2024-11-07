@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalEx01", "AnimalEx01\AnimalEx01.csproj", "{865224C2-DC32-4085-A45D-0DDDCD7518C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesObjetos", "ClassesObjetos\ClassesObjetos.csproj", "{772DAA2E-75B2-4BE3-9745-3D3E1232B61A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865224C2-DC32-4085-A45D-0DDDCD7518C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865224C2-DC32-4085-A45D-0DDDCD7518C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865224C2-DC32-4085-A45D-0DDDCD7518C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865224C2-DC32-4085-A45D-0DDDCD7518C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{772DAA2E-75B2-4BE3-9745-3D3E1232B61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772DAA2E-75B2-4BE3-9745-3D3E1232B61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772DAA2E-75B2-4BE3-9745-3D3E1232B61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772DAA2E-75B2-4BE3-9745-3D3E1232B61A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F73FD8A1-2317-4FD6-BC0B-5640E1DBDC57}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,91 @@
+﻿using AtividadesClasses.Veiculo;
+using System.Net.Http.Headers;
+
+Console.WriteLine ($"Bem vindo ao Programa Ficha Tecnica");
+
+Moto minhaMoto> = new Moto();
+
+minhaMoto.Nome = "KTM 1290 Super Adventure S ";
+minhaMoto.Torque = "138.0 Nm (14.1 kgf-m or 101.8 ft.lbs) @ 6500 RPM";
+minhaMoto.Capacidadecubica = "1301,0 cm3 (79,39 polegadas cúbicas)";
+minhaMoto.Tipodemotor = "V2, quatro tempos";
+minhaMoto.Potencia = "  160,0 cv (116,8 kW)) @ 9000 RPM";
+minhaMoto.DiametroxCurso = "08,0 x 71,0 mm (4,3 x 2,8 polegadas)";
+minhaMoto.Sistemadecombustível = "Injeção. Keihin, 52 mm.";
+minhaMoto.Detalhesdomotor = "Arranjo de 75° V.";
+minhaMoto.Ignicao = "Keihin EMS com RBW e controle de cruzeiro, dupla ignição.";
+minhaMoto.Sistemaderefrigeracao = "Líquido";
+minhaMoto.Tipodetransmisso = "Corrente";
+minhaMoto.Caixadecambio = " 6 velocidades";
+minhaMoto.Embreagem = "Embraiagem PASC, acionada hidráulicamente.";
+minhaMoto.Linhadedirecao = "Anel 5/8 x 5/16 X. Unidade primária: 40:76.";
+minhaMoto.Consumodecombustivel = "5,70 litros/100 km (17,5 km/l or 41,27 mpg)";
+minhaMoto.Gasesdeefeitoestufa = "132,2 CO2 g/km, (CO2 - Emissão de dióxido de carbono)";
+minhaMoto.Compressao = "13.1:1";
+minhaMoto.Sistemadelubrificacao = "Lubrificação forçada de óleo com 3 bombas.";
+minhaMoto.Frontwheeltrave = "200 mm (7.9 inches)";
+minhaMoto.Rearwheeltravel = "200 mm (7.9 inches)";
+minhaMoto.Tipodequadro = " Moldura em aço de cromo-molibdênio, revestida com pó.";
+minhaMoto.Ancinho(ângulo do garfo) = " 24,7°";
+minhaMoto.Trilha = "109 mm (4,3 polegadas)";
+minhaMoto.Suspensãodianteira = "Suspensão WP semi-ativa, Ø 48 mm.";
+minhaMoto.Suspensãotraseira = "WP  monoshock de suspensão semi-ativa.";
+minhaMoto.Pneudianteiro = "120/70-ZR19";
+minhaMoto.Pneutraseiro = "170/60-ZR17";
+minhaMoto.Freiosdianteiros = "Disco duplo. 2 x Quatro pistãos de Brembo caliper fixo radial, discos de freio, flutuando.";
+minhaMoto.Freiostraseiros = "Disco único. Brembo twin-piston caliper fixo, disco de freio.";
+minhaMoto.Rodas = "Lâminas de liga";
+minhaMoto.Reservefuelcapacity = "5.00 litres (1.32 US gallons)";
+minhaMoto.Alturadoassento = "860 mm (33,9 polegadas) Se for ajustável, configuração mais baixa.";
+minhaMoto.Distanciaaosolo = "220 mm (8,7 polegadas)";
+minhaMoto.Distanciaentreeixos = "1580 mm (62,2 polegadas)";
+minhaMoto.Pesoseco = "220,0 kg (485,0 libras)";
+minhaMoto.Relacaopotencia/peso = "0,7273 cv/kg";
+minhaMoto.Capacidadedecombustivel = "23,00 litros (6,08 galões americanos)";
+minhaMoto.Opcoesdecores = "	Laranja/preto";
+minhaMoto.Partida = "Elétrica";
+
+
+
+
+Console.Clear();
+
+Console.WriteLine($"Nome da Moto: {minhaMoto.Nome}");
+Console.WriteLine($"Torque:{minhaMoto.Torque}");
+Console.WriteLine($"Capacidade cúbica:{minhaMoto.Capacidadecubicaor}");
+Console.WriteLine($"Tipo de motor:{minhaMoto.Tipodemotor}");
+Console.WriteLine($"Potência:{minhaMoto.Potencia}");
+Console.WriteLine($"Diâmetro x Curso:{minhaMoto.DiâmetroxCurso}");
+Console.WriteLine($"Sistema de combustível:{minhaMoto.Sistemadecombustivel}");
+Console.WriteLine($"Detalhes do motor:{minhaMoto.Detalhesdomotor}");
+Console.WriteLine($"Ignição:{minhaMoto.Ignicao}");
+Console.WriteLine($"Sistema de refrigeração:{minhaMoto.Sistemaderefrigeracao}");
+Console.WriteLine($"Tipo de transmissão:{minhaMoto.Tipodetransmissao}");
+Console.WriteLine($"Caixa de câmbio:{minhaMoto.Caixadecambio}");
+Console.WriteLine($"Embreagem:{minhaMoto.Embreagem}");
+Console.WriteLine($"Linha de direção:{minhaMoto.Linhadedirecao}");
+Console.WriteLine($"Consumo de combustível:{minhaMoto.Consumodecombustivel}");
+Console.WriteLine($"Gases de efeito estufa:{minhaMoto.Gasesdeefeitoestufa}");
+Console.WriteLine($"Compressão:{minhaMoto.Compressao}");
+Console.WriteLine($"Sistema de lubrificação:{minhaMoto.Sistemadelubrificacao}");
+Console.WriteLine($"Front wheel travel:{minhaMoto.Frontwheeltrave}");
+Console.WriteLine($"Rear wheel travel:{minhaMoto.Rearwheeltrave}");
+Console.WriteLine($"Tipo de quadro:{minhaMoto.Tipodequadro}");
+Console.WriteLine($"Ancinho (ângulo do garfo):{minhaMoto.Ancinho(ângulo do garfo)}");
+Console.WriteLine($"Trilha:{minhaMoto.Trilha}");
+Console.WriteLine($"Suspensão dianteira:{minhaMoto.Suspensaodianteira}");
+Console.WriteLine($"Suspensão traseira:{minhaMoto.Suspensaotraseira}");
+Console.WriteLine($"120/70-ZR19:{minhaMoto.Pneudianteiro}");
+Console.WriteLine($"Pneu traseiro:{minhaMoto.Pneutraseiro}");
+Console.WriteLine($"Freios dianteiros:{minhaMoto.Freiosdianteiros}");
+Console.WriteLine($"Freios traseiros:{minhaMoto.Freiostraseiros}");
+Console.WriteLine($"Rodas:{minhaMoto.Rodas}");
+Console.WriteLine($"Reserve fuel capacity:{minhaMoto.Reservefuelcapacity}");
+Console.WriteLine($"Altura do assento:{minhaMoto.Alturadoassento}");
+Console.WriteLine($"Distância ao solo:{minhaMoto.Distanciaaosolo}");
+Console.WriteLine($"Distância entre eixos:{minhaMoto.Distanciaentreeixos}");
+Console.WriteLine($"Peso seco:{minhaMoto.Pesoseco}");
+Console.WriteLine($"Relação potência/peso:{minhaMoto.Relacaopotência/peso }");
+Console.WriteLine($"Capacidade de combustível:{minhaMoto.Capacidadedecombustivel}");
+Console.WriteLine($"Opções de cores:{minhaMoto.Opcoesdecores}");
+Console.WriteLine($"Partida:{minhaMoto.Partida}");
